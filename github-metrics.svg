@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2175" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2257" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -1154,7 +1154,7 @@ Developer of evBot (discord bot).
             <div class="field ">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
               
-                2.17m added, 89k removed
+                12.6k added, 3.54k removed
               
             </div>
         
@@ -1249,21 +1249,21 @@ Developer of evBot (discord bot).
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="262.7870390513506" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="262.7196233759949" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="262.7870390513506" y="0" width="140.07116216585965" height="8" fill="#563d7c"/>
+          <rect mask="url(#languages-bar)" x="262.7196233759949" y="0" width="140.0352281562169" height="8" fill="#563d7c"/>
         
-          <rect mask="url(#languages-bar)" x="402.8582012172102" y="0" width="39.92269272432454" height="8" fill="#c6538c"/>
+          <rect mask="url(#languages-bar)" x="402.75485153221183" y="0" width="39.91245091292569" height="8" fill="#c6538c"/>
         
-          <rect mask="url(#languages-bar)" x="442.78089394153477" y="0" width="15.639633416539018" height="8" fill="#4F5D95"/>
+          <rect mask="url(#languages-bar)" x="442.66730244513747" y="0" width="15.753630112580996" height="8" fill="#4F5D95"/>
         
-          <rect mask="url(#languages-bar)" x="458.42052735807374" y="0" width="0.9449152954175571" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="458.42093255771846" y="0" width="0.9446728858108109" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="459.3654426534913" y="0" width="0.4596908456553252" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="459.3656054435293" y="0" width="0.4595729160613598" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="459.8251334991466" y="0" width="0.10995784394859937" height="8" fill="#355570"/>
+          <rect mask="url(#languages-bar)" x="459.82517835959067" y="0" width="0.10992963524265556" height="8" fill="#355570"/>
         
-          <rect mask="url(#languages-bar)" x="459.9350913430952" y="0" width="0.06490865690476351" height="8" fill="#878787"/>
+          <rect mask="url(#languages-bar)" x="459.9351079948333" y="0" width="0.06489200516669659" height="8" fill="#878787"/>
         
       </svg>
       
@@ -1386,8 +1386,8 @@ Developer of evBot (discord bot).
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="299.39 329"/>
-                  <text x="60" y="60" dominant-baseline="central">91</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="309.26 329"/>
+                  <text x="60" y="60" dominant-baseline="central">94</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -1462,7 +1462,7 @@ Developer of evBot (discord bot).
           <div class="field">
             <div class="audit text">
               
-                0.79 s
+                0.86 s
               
             </div>
             
@@ -1473,7 +1473,7 @@ Developer of evBot (discord bot).
           <div class="field">
             <div class="audit text">
               
-                0.59 s
+                1.03 s
               
             </div>
             
@@ -1484,7 +1484,7 @@ Developer of evBot (discord bot).
           <div class="field">
             <div class="audit text">
               
-                0.01 s
+                0 s
               
             </div>
             
@@ -1495,7 +1495,7 @@ Developer of evBot (discord bot).
           <div class="field">
             <div class="audit text">
               
-                0.59 s
+                0.86 s
               
             </div>
             
@@ -1506,7 +1506,7 @@ Developer of evBot (discord bot).
           <div class="field">
             <div class="audit text">
               
-                1.25 s
+                1.54 s
               
             </div>
             
@@ -2686,6 +2686,45 @@ Developer of evBot (discord bot).
                 
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 2 commits in <div class="repo">PoweredByWard/gip</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">master</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#5975d6c</div>
+                        <div class="message">doelstellingen filter</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#14b61f5</div>
+                        <div class="message">Merge branch 'master' of https://github.com/PoweredByWard/gip</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     Pushed 3 commits in <div class="repo">PoweredByWard/gip</div>
                   </div>
                   <div class="details">
@@ -2818,7 +2857,7 @@ Developer of evBot (discord bot).
           
             <span>These metrics include private contributions, timezone Europe/Brussels</span>
           
-          <span>Last updated Fri, 19 Mar 2021 09:07:28 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Fri, 19 Mar 2021 10:07:25 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
