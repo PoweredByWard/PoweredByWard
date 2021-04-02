@@ -1462,7 +1462,7 @@ Developer of evBot (discord bot).
           <div class="field">
             <div class="audit text">
               
-                0.81 s
+                1.29 s
               
             </div>
             
@@ -1473,7 +1473,7 @@ Developer of evBot (discord bot).
           <div class="field">
             <div class="audit text">
               
-                0.78 s
+                0.90 s
               
             </div>
             
@@ -1484,7 +1484,7 @@ Developer of evBot (discord bot).
           <div class="field">
             <div class="audit text">
               
-                0 s
+                0.05 s
               
             </div>
             
@@ -1495,7 +1495,7 @@ Developer of evBot (discord bot).
           <div class="field">
             <div class="audit text">
               
-                0.78 s
+                0.70 s
               
             </div>
             
@@ -1506,7 +1506,7 @@ Developer of evBot (discord bot).
           <div class="field">
             <div class="audit text">
               
-                1.49 s
+                1.59 s
               
             </div>
             
@@ -2871,7 +2871,7 @@ Developer of evBot (discord bot).
           
             <span>These metrics include private contributions, timezone Europe/Brussels</span>
           
-          <span>Last updated Fri, 02 Apr 2021 13:08:36 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Fri, 02 Apr 2021 14:01:36 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
