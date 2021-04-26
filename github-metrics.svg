@@ -1340,14 +1340,14 @@ Developer of evBot (discord bot).
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="257.7526925723556" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="257.7526925723556" y="0" width="136.61583051171863" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="394.3685230840743" y="0" width="38.937863714870325" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="433.30638679894463" y="0" width="25.15310362427485" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="458.45949042321945" y="0" width="0.9216057456126359" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.3810961688321" y="0" width="0.4483510073506291" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.82944717618267" y="0" width="0.1072453597160005" height="8" fill="#355570"/>
-                    <rect mask="url(#languages-bar)" x="459.9366925358987" y="0" width="0.06330746410131381" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="257.8753801304503" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="257.8753801304503" y="0" width="136.68085820347727" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="394.5562383339275" y="0" width="38.956397726557746" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="433.5126360604853" y="0" width="24.946121096453513" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="458.4587571569388" y="0" width="0.9220444202093078" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.38080157714813" y="0" width="0.448564417692582" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.8293659948407" y="0" width="0.10729640737400642" height="8" fill="#355570"/>
+                    <rect mask="url(#languages-bar)" x="459.9366624022147" y="0" width="0.06333759778528135" height="8" fill="#878787"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2845,7 +2845,7 @@ Developer of evBot (discord bot).
                     These metrics include private contributions, timezone Europe/Brussels
                 </span>
                 <span>
-                    Last updated Mon, 26 Apr 2021 14:01:26 GMT with lowlighter/metrics@3.7.0
+                    Last updated Mon, 26 Apr 2021 15:01:21 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
