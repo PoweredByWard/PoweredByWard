@@ -1121,7 +1121,7 @@ Developer of evBot (discord bot).
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
-                        284 Commits
+                        285 Commits
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1340,14 +1340,14 @@ Developer of evBot (discord bot).
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="256.40651658731247" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="256.40651658731247" y="0" width="135.9023211847114" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="392.30883777202394" y="0" width="38.734501272683126" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="431.043339044707" y="0" width="27.424197063608045" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="458.4675361083151" y="0" width="0.9167924359628319" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.38432854427793" y="0" width="0.4460093854147268" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.83033792969263" y="0" width="0.10668524479996926" height="8" fill="#355570"/>
-                    <rect mask="url(#languages-bar)" x="459.9370231744926" y="0" width="0.06297682550740953" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="256.3701162721126" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="256.3701162721126" y="0" width="135.88302804273766" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="392.2531443148503" y="0" width="38.7290023950641" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="430.9821467099144" y="0" width="27.485606952031635" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="458.46775366194606" y="0" width="0.9166622850833377" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.38441594702937" y="0" width="0.44594606845060564" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.83036201548" y="0" width="0.10667009941057128" height="8" fill="#355570"/>
+                    <rect mask="url(#languages-bar)" x="459.93703211489054" y="0" width="0.06296788510944591" height="8" fill="#878787"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2712,6 +2712,37 @@ Developer of evBot (discord bot).
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
+                                            #5f265c2
+                                        </span>
+                                        <span class="message">
+                                            bug fixes
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">
+                                            PoweredByWard/gip
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            master
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
                                             #77b9c36
                                         </span>
                                         <span class="message">
@@ -2814,37 +2845,6 @@ Developer of evBot (discord bot).
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            PoweredByWard/gip
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            master
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #b087e5f
-                                        </span>
-                                        <span class="message">
-                                            Rename Onderdelen.php to onderdelen.php
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2853,7 +2853,7 @@ Developer of evBot (discord bot).
                     These metrics include private contributions, timezone Europe/Brussels
                 </span>
                 <span>
-                    Last updated Wed, 28 Apr 2021 22:01:31 GMT with lowlighter/metrics@3.7.0
+                    Last updated Wed, 28 Apr 2021 23:01:32 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
