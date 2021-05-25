@@ -1443,8 +1443,8 @@ Developer of evBot (discord bot).
                         <div class="categorie column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="302.68 329"/>
-                                <text x="60" y="60" dominant-baseline="central">92</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="309.26 329"/>
+                                <text x="60" y="60" dominant-baseline="central">94</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1516,7 +1516,7 @@ Developer of evBot (discord bot).
                     <div class="field">
                         <div class="audit text">
               
-                0.75 s
+                0.78 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1536,7 +1536,7 @@ Developer of evBot (discord bot).
                     <div class="field">
                         <div class="audit text">
               
-                0.68 s
+                0.63 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1546,7 +1546,7 @@ Developer of evBot (discord bot).
                     <div class="field">
                         <div class="audit text">
               
-                1.49 s
+                1.37 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2793,7 +2793,7 @@ Developer of evBot (discord bot).
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone Europe/Brussels</span>
-                <span>Last updated Tue, 25 May 2021 15:03:42 GMT with lowlighter/metrics@3.9.0</span>
+                <span>Last updated Tue, 25 May 2021 16:19:50 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
