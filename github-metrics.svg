@@ -1577,7 +1577,7 @@ Developer of evClient (ev.io/evclient)
                     <div class="field">
                         <div class="audit text">
               
-                0.60 s
+                0.59 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1625,7 +1625,7 @@ Developer of evClient (ev.io/evclient)
                     <div class="field">
                         <div class="audit text">
               
-                0.60 s
+                0.59 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2835,7 +2835,7 @@ Developer of evClient (ev.io/evclient)
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Sat, 03 Jul 2021 18:06:23 (timezone Europe/Brussels) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sat, 03 Jul 2021 19:13:28 (timezone Europe/Brussels) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
