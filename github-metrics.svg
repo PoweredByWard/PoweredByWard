@@ -1473,7 +1473,7 @@ Developer of evClient (ev.io/evclient)
                             <section>
                                 <div class="field">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/></svg>
-                  Updated 23 days ago
+                  Updated 24 days ago
                 </div>
                             </section>
                         </div>
@@ -1524,10 +1524,10 @@ Developer of evClient (ev.io/evclient)
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="197.4 329"/>
-                                <text x="60" y="60" dominant-baseline="central">60</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
+                                <text x="60" y="60" dominant-baseline="central">96</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1577,7 +1577,7 @@ Developer of evClient (ev.io/evclient)
                     <div class="field">
                         <div class="audit text">
               
-                0.66 s
+                0.67 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1587,7 +1587,7 @@ Developer of evClient (ev.io/evclient)
                     <div class="field">
                         <div class="audit text">
               
-                1.31 s
+                1.69 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1625,7 +1625,7 @@ Developer of evClient (ev.io/evclient)
                     <div class="field">
                         <div class="audit text">
               
-                0.66 s
+                0.67 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1635,7 +1635,7 @@ Developer of evClient (ev.io/evclient)
                     <div class="field">
                         <div class="audit text">
               
-                1.31 s
+                1.69 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2840,7 +2840,7 @@ Developer of evClient (ev.io/evclient)
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Tue, 13 Jul 2021 22:05:26 (timezone Europe/Brussels) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 13 Jul 2021 23:04:35 (timezone Europe/Brussels) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
